@@ -5,6 +5,7 @@
 ## General notes
 * I wanted a USB Type C connector so I went with Elite-C microcontrollers, you can get any Pro-Micro compatible ones.
 * I decided to socket the Elite-Cs and the OLEDs, but not the switches.
+* I don't use per-key backlighting, so it's not covered.
 * You can save a lot of money by getting cheapers microcontrollers, using normal headers instead of sockets, buying generic components (LEDs, diodes, headers, hardware, etc.) from non-keyboard parts-specific stores or not having the OLEDs.
 
 ## Parts list
