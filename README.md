@@ -3,8 +3,9 @@
 > Note: Information as of December 2022
 
 ## General notes
+* Kailh-like hotswap switch sockets are mandatory for Corne build.
 * I wanted a USB Type C connector so I went with Elite-C microcontrollers, you can get any Pro-Micro compatible ones.
-* I decided to socket the Elite-Cs and the OLEDs, but not the switches.
+* I decided to socket the Elite-Cs and the OLEDs.
 * I don't use per-key backlighting, so it's not covered.
 * You can save a lot of money by getting cheapers microcontrollers, using normal headers instead of sockets, buying generic components (LEDs, diodes, headers, hardware, etc.) from non-keyboard parts-specific stores or not having the OLEDs.
 
@@ -23,8 +24,9 @@
 | [Bottom Plate Set](https://splitkb.com/collections/cases-and-plates/products/aurora-corne-low-profile-case?variant=43446808838403) | | 9 € |
 | [OLED Cover Set](https://splitkb.com/collections/cases-and-plates/products/aurora-corne-low-profile-case?variant=43468300189955) | | 4 € |
 | [Hardware Kit](https://splitkb.com/collections/cases-and-plates/products/aurora-corne-low-profile-case?variant=43446809035011) | | 9 € |
+| [Switch Sockets](https://splitkb.com/products/kailh-hotswap-sockets?variant=43579173961987) | 50x, 42 needed for the build | 8 € |
 | [Switches](https://keygem.com/collections/tactile/products/gazzew-u4t-10pcs) | 50x, 42 needed for the build | 33 € |
-| **Total** | |        **161.5 €**     |
+| **Total** | |        **169.5 €**     |
 
 ## Build process
 
