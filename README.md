@@ -30,3 +30,22 @@
 
 ## Build process
 
+### 1. Soldering diodes
+
+Mind the direction of the diode, indicated by some sort of a line, which should align with the line, marked on the PCB.
+
+![](img/1.jpg)
+
+I suggest you put some solder on one pad for each diode and then align it while heating the solder, that way you can align them easier.
+
+![](img/2.jpg)
+
+### 2. Soldering underglow LEDs
+
+Pay attention to the orientation, a cut corner on the LED should match marking on the PCB (hopefully your PCB is marked better than mine).
+
+![](img/3.jpg)
+
+### 3. Solder the TRRS connectors and the reset button
+
+![](img/4.jpg)
