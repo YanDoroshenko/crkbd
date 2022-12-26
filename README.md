@@ -101,7 +101,7 @@ While putting in the OLED you might want to trim the pins or remove the plastic 
 
 You can use all sorts of stuff to remove the flux residue from the PCB, but nail polish remover on a q-tip worked fine for me.
 
-![](img/9.jpg)
+![](img/10.jpg)
 
 ### 11. Assembling the case and enjoyng the outcome
 
