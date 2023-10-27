@@ -1,4 +1,4 @@
-# Ergodash
+# Corne
 
 > Note: Information as of December 2022
 
